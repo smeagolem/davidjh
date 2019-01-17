@@ -1,5 +1,5 @@
 module.exports = {
-  base: '/davidjh/',
+  base: '/',
   title: 'David J Holland',
   description: 'Just playing around',
   themeConfig: {

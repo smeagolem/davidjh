@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "vuepress dev",
-    "build": "vuepress build docs"
+    "build": "vuepress build"
   },
   "devDependencies": {
     "vuepress": "^1.0.0-alpha.32"
