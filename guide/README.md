@@ -14,13 +14,18 @@ No Text. Only Images.
 
 ### Ideas
 
+one big birds-eye-view picture of a table with the following:
+
 - Tea
-- Eating Vegetables
-- Using Xbox controller
-- Reading Kindle
-- Studying
-- Programming for work
-- Doing a pushup
-- Playing D&D
-- Walking
-- Piano
+- Ramen bowl
+- Xbox controller
+- Kindle
+- Text Books about coding
+- MacBook
+- D&D dice set
+
+Three smaller picture below
+
+- left: Me running or walking
+- middle: Melbourne sky-line
+- right: Me playing piano
