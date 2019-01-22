@@ -27,6 +27,12 @@ one big birds-eye-view picture of a table with the following:
 />
 - Ramen bowl
 - Xbox controller
+<HoverImage
+  image="/assets/img/controller.svg"
+  hover="/assets/img/controller_outline.svg"
+  desc="Xbox One Controller in blue"
+  height="96"
+/>
 - Kindle
 - Text Books about coding
 - MacBook
