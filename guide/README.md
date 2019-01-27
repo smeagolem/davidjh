@@ -26,6 +26,12 @@ one big birds-eye-view picture of a table with the following:
   height="96"
 />
 - Ramen bowl
+<HoverImage
+  image="/assets/img/ramen.svg"
+  hover="/assets/img/ramen_outline.svg"
+  desc="Probably ramen"
+  height="112"
+/>
 - Xbox controller
 <HoverImage
   image="/assets/img/controller.svg"
