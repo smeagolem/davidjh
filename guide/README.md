@@ -40,6 +40,12 @@ one big birds-eye-view picture of a table with the following:
   height="96"
 />
 - Kindle
+<HoverImage
+  image="/assets/img/kindle.svg"
+  hover="/assets/img/kindle_outline.svg"
+  desc="Kindle paperwhite"
+  height="96"
+/>
 - Text Books about coding
 - MacBook
 <HoverImage
