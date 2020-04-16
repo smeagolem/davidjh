@@ -1,4 +1,5 @@
 ---
+search: false
 sidebar: auto
 ---
 
